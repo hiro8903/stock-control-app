@@ -1,0 +1,16 @@
+current directory: /Users/arakihiroki/workspace/stock_control_app/vendor/bundle/ruby/3.1.0/gems/strscan-3.0.3/ext/strscan
+/Users/arakihiroki/.rbenv/versions/3.1.1/bin/ruby -I /Users/arakihiroki/.rbenv/versions/3.1.1/lib/ruby/3.1.0 -r ./siteconf20220701-6490-9jleyi.rb extconf.rb
+checking for onig_region_memsize() in ruby.h... yes
+creating Makefile
+
+current directory: /Users/arakihiroki/workspace/stock_control_app/vendor/bundle/ruby/3.1.0/gems/strscan-3.0.3/ext/strscan
+make DESTDIR\= clean
+
+current directory: /Users/arakihiroki/workspace/stock_control_app/vendor/bundle/ruby/3.1.0/gems/strscan-3.0.3/ext/strscan
+make DESTDIR\=
+compiling strscan.c
+linking shared-object strscan.bundle
+
+current directory: /Users/arakihiroki/workspace/stock_control_app/vendor/bundle/ruby/3.1.0/gems/strscan-3.0.3/ext/strscan
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 strscan.bundle ./.gem.20220701-6490-pzl5u9
